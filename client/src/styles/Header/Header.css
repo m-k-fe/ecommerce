@@ -1,0 +1,9 @@
+#header li {
+  margin-left: 20px;
+}
+#header li:first-child {
+  margin-left: 0;
+}
+#header a {
+  color: #fff !important;
+}
